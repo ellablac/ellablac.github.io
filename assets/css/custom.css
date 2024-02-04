@@ -1,7 +1,6 @@
 .page-header {
     background-image: url('../images/cloud-ai-head.jpg');
-    background-size: cover;
-    background-position: center center;
+    background-position: top center;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
