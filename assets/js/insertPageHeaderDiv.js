@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', (event) => {
     newDiv.style.padding = "20px"; // Add padding to ensure the content isn't too close to the edges
 
     // Append the new div to the page-header element
-    var pageHeader = document.querySelector(".page-header");
-    if (pageHeader) {
-        pageHeader.appendChild(newDiv);
-    }
+    // var pageHeader = document.querySelector(".page-header");
+    // if (pageHeader) {
+    //     pageHeader.appendChild(newDiv);
+    // }
 });
