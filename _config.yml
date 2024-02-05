@@ -2,5 +2,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Welcome. My name is Ella Blackledge, a Cloud Software Engineer based in the US.
-description: My passion is creating elegant solutions that bring simplicity into chaos.
+title: Welcome. 
+description: I am Ella Blackledge, a Cloud Software Engineer based in the US. My passion is creating elegant solutions that bring simplicity into chaos.
