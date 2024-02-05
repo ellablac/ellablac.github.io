@@ -1,13 +1,23 @@
 .page-header {
-    background-image: url('../images/cloud-ai-head.jpg');
+    position: relative;
     background-position: top center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: contain;
     background-color: white;
 }
-.page-header .project-name,
-.page-header .project-tagline {
-    background-color: rgba(0, 0, 128, 0.5); /* Dark navy background with 50% opacity */
-    color: white; /* Optional: to ensure text readability */
+
+.page-header::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: url('../images/cloud-ai-head.jpg');
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    opacity: 0.5; /* Adjust the opacity as needed */
+    z-index: -1;
 }
