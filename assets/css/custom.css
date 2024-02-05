@@ -6,7 +6,8 @@
     background-size: contain;
     background-color: white;
 }
-#page-header h1 {
+.page-header .project-name,
+.page-header .project-tagline {
     background-color: rgba(0, 0, 128, 0.5); /* Dark navy background with 50% opacity */
     color: white; /* Optional: to ensure text readability */
 }
