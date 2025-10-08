@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ellablac.github.io/RussianCourse/sitemap.xml
+Sitemap: https://ellablac.github.io/sitemap.xml
