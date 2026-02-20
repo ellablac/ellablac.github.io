@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Sky4Tech 
-description: Mission: Advocating for open standards in AI and technology. Promoting community-based education.
+description: "Mission: Advocating for open standards in AI and technology. Promoting community-based education.""
