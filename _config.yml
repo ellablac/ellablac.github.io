@@ -2,5 +2,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: My Personal Site. 
-description: Website with my personal projects.
+title: Sky4Tech 
+description: Mission: Advocating for open standards in AI and technology. Promoting community-based education.
